@@ -1,14 +1,24 @@
 # software-engineering-spring2019
 
+Josh was here.
+# Fixed Issue
+
+get real #30 --wstory21
+
 Josh was here.  Josh likes drinking beer and eating fancy cheese.  
 
+
 Chewy was here :D 
+
 
 
 # Fixed Issue
 
 Issued #39 - Dustin Reynolds - 
 Didn't actually fix.  Can't find more coffee. Sorry...
+
+
+
 
 # Fixed issue
 
