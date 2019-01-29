@@ -20,7 +20,9 @@ Issued #39 - Dustin Reynolds -
 Didn't actually fix.  Can't find more coffee. Sorry...
 
 
+# fixed issue 
 
+resolved strange issue #44 -- bclaymon
 
 # Fixed issue
 
