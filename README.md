@@ -5,3 +5,5 @@ Josh was here.
 # Fixed issue
 
 fix the slipjoints #26 -- wmacevoy
+
+more changes....
