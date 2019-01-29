@@ -1,1 +1,1 @@
-Here's my bad README
+Please dont make me use COBOL
