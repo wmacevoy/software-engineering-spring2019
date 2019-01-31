@@ -2,8 +2,8 @@
 
 Josh was here.
 
-#Fixed issue
---rayshash
+# Fixed issue
+--Issue#40 rayshash
 **END OF LINE**
 
 Josh was here.  Josh likes drinking beer and eating fancy cheese.  
